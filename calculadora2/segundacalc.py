@@ -1,3 +1,5 @@
+import pytest
+
 # definindo os numeros escolhidos 
 numero1 = int(input("escolha o primeiro numero: "))
 numero2 = int(input("escoha o segundo numero: "))
